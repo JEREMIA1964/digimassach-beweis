@@ -1,3 +1,19 @@
+# DigiMassach • KREISRUND — Grundidee (Kurz)
+
+**KREISRUND** macht Information nicht mehr linear, sondern **holografisch kreisförmig**:  
+ein **Yechida-Zentrum** (Absicht) als Nullpunkt, **Gravitations-Ringe** für Zeit/Tempo, Inhalte als **Orbits**; Ereignisse erzeugen **Wellen**.  
+Der **Möbius-Konverter** faltet lineare Ströme (Text/Signale) verlustarm in den Kreis – und ebenso zurück.
+
+### Wozu (Essenz)
+- **Holografische Lichtverarbeitung:** mehrere Bedeutungsebenen (wörtlich, terminologisch, Kommentar …) **gleichzeitig** sichtbar.  
+- **Non-linear statt Pipeline:** Priorität, Kontext und Rhythmus werden **gesehen** und direkt beeinflusst (Wellen/Impulse).  
+- **Energie-Vision:** *WeltKreisEnergieVersorgung* als Forschungsrichtung — kreisförmige, resonanzbasierte Steuerung für **effizientere, adaptive** Flüsse.  
+  *Hinweis: Forschungs-These zur offenen Prüfung; keine Produkt-/Ertragszusage.*
+
+> **Randnotiz · Abhängigkeiten (optional für Weiterverarbeitung)**  
+> Web-Demo im Browser · optional Node ≥ 20 + `esbuild` · Datenpfade: `data/index.jsonl`, `data/events.jsonl`, `config/gravity-config.yml` · CI/Actions für Artefakte.
+
+---
 [![Verify Checksums](https://github.com/JEREMIA1964/digimassach-beweis/actions/workflows/verify.yml/badge.svg)](https://github.com/JEREMIA1964/digimassach-beweis/actions/workflows/verify.yml)
 [![Release](https://img.shields.io/badge/attested-v1.1.0--attested--2025--09--05-blue)](https://github.com/JEREMIA1964/digimassach-beweis/releases/tag/v1.1.0-attested-2025-09-05)
 
