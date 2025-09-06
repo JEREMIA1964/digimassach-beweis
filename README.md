@@ -1,3 +1,5 @@
+[➡︎ **Kurzfassung: GRUNDIDEE_KURZ.md**](docs/GRUNDIDEE_KURZ.md)
+
 # DigiMassach • KREISRUND — Grundidee (Kurz)
 
 **KREISRUND** macht Information nicht mehr linear, sondern **holografisch kreisförmig**:  
