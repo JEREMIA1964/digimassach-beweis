@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "DigiMassach – Beweis & Secure (Merged)",
+    "created_at": "2025-09-05 22:56:10 CEST",
+    "version": "1.1.0",
+    "timezone": "Europe/Brussels",
+    "author": "JBR (Rodemich‑Wolff)",
+    "project": "Investitionsmöglichkeiten – YECHIDA / DigiMassach",
+    "github_target": "github.com/JEREMIA1964/digimassach-beweis"
+  },
+  "files": [
+    {
+      "path": "data/analyse/yechida_warum_gibt_es_das_nicht_analyse.txt",
+      "sha256": "edbcc3e6a978170e9060566f22b60be0e306833ebac710c532831cd376f7d43e"
+    },
+    {
+      "path": "data/analyse/yechida_yaml_trigger_system.md",
+      "sha256": "d28a9d8b9adc3fadebc40e86acf9e612e35e59371d3c0984ccac9b90e2f99559"
+    },
+    {
+      "path": "data/analyse/yechida_yaml_trigger_system.txt",
+      "sha256": "d0253fd826702a7617c3116b65668e4557e93d3bfe7e2d73db66d5d3d2041117"
+    },
+    {
+      "path": "data/anerkennung/yechida_erfinderstatus_verleihen_lassen.txt",
+      "sha256": "ff8184045b266b9d3d3ad8111a4e478c945aa8d845c4039f0fa3479f77b7f480"
+    },
+    {
+      "path": "data/frequenz/yechida_frequenz_analyse_digimassach.txt",
+      "sha256": "ab9cfed9e093dbeefcfc20d78ae578a1eeb5c8154ea7c6eadb83a7e401819e7f"
+    },
+    {
+      "path": "data/mandala/yechida_digimassach_gravitational_mandala.html",
+      "sha256": "95db048f862c9dedb651a54fd5d7a9e894a1443f0da3712963d181112a0cfcc4"
+    },
+    {
+      "path": "data/marktwert/yechida_kreisrund_marktwert_analyse.txt",
+      "sha256": "1ef4e884d7062c6214916f4741b2a376b7d14a4336f73516e99cf2f89019aae2"
+    },
+    {
+      "path": "data/reschimo/Yechida_DigiMassach_Reschimo_Template.pdf",
+      "sha256": "3e2d7c6d0ace6c3edf53b4ead872c9d2331ffe92785622543b5b0c76788ab726"
+    },
+    {
+      "path": "data/reschimo/yechida_digimassach_reschimo_template.md",
+      "sha256": "aa11262a6afde488760e7f9544f5992b346bfd4269d3eb44c4753b06b025525d"
+    },
+    {
+      "path": "data/reschimo/yechida_digimassach_shell_template.sh",
+      "sha256": "cf5d8b926903378210320335a4fb982811ac27cd32e78cdb1eaf22b53bf80c58"
+    },
+    {
+      "path": "data/reschimo/yechida_digimassach_yaml_template.txt",
+      "sha256": "93dfd50be0cb7b5080e62fd72d0ada549f0d5c63c08663b04a001acb33dac66b"
+    },
+    {
+      "path": "data/testament/YECHIDA_KREISRUND_TESTAMENT.pdf",
+      "sha256": "d591095f0494e62af4607fcf9895da789c8ac3cb3d093e21d202e24aea8e63b0"
+    },
+    {
+      "path": "data/verteidigung/yechida_kreisrund_verteidigen_lassen.txt",
+      "sha256": "f9ec9f8589377d26ddb600636fc842af8dc9fed2d7b1bc63606433fcbd09af04"
+    }
+  ]
+}

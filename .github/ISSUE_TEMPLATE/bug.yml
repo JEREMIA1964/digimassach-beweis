@@ -1,0 +1,15 @@
+---
+name: Korrekturvorschlag / Bug
+about: Melde einen Fehler oder inhaltliche Korrektur
+title: "[Bug] Kurzbeschreibung"
+labels: bug
+assignees: ""
+---
+
+**Beschreibung**
+
+**Schritte zur Reproduktion / Nachweis**
+
+**Erwartetes Verhalten**
+
+**Bezug**
